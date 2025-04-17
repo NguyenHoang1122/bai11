@@ -8,5 +8,5 @@ while(count < 30){
     }
     i++;
 }
-document.write(sum);
+document.write(`Tong 30 so tu nhien dau tien chia het cho 7 la : ${sum}`);
 
